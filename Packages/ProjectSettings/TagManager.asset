@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - HeroBullet
+  - EnemyBullet
+  - Enemy
+  - MetalBlocks
+  - Player2
   layers:
   - Default
   - TransparentFX
@@ -11,9 +16,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Metal Blocks
+  - Hero Bullet
+  - Enemy
   - 
   - 
   - 
